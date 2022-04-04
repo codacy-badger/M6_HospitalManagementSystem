@@ -1,0 +1,83 @@
+# INTRODUCTION
+
+The project Hospital Management system includes registration of patients, storing their details into the system and details of facilities available in the hospital. The project has the facility to give a unique id for every patient and stores the details of every patient and the staff. It includes a search facility of which medicines are availabe in the hospital. User can search availability of a doctor and the details of a patient.
+
+
+# PROBLEM STATEMENT
+
+This project is aimed to automate the Management of Hospital to develop software which is user friendly, simple, fast, and cost – effective.It deals with the collection of patient's information, diagnosis details, etc. Traditionally, it was done manually. The main function of the system is to register and store patient details and doctor details and
+retrieve these details as and when required, and also to manipulate these details meaningfully. This function of Hospital Management Information System deals with
+registering the new Patient by giving unique Identification Number to the Patient.
+
+
+# SYSTEM FEATURES
+
+* HOME SCREEN :-
+  Home Screen consist of the list of feature available in the Hospital Management System Project. Through Home Screen a user can access the features and
+  
+* DOCTORS :-
+  Doctors is a feature available in the Hospital Management System Project. In Doctors a user can add a new doctor by providing informations asked by the system and it also
+  views the list of existing doctors available
+ 
+* PATIENTS :-
+  Patients is a feature available in the Hospital Management System Project. In Patients a user can add a new patient by providing informations asked by the system and it also
+  views the list of existing patients available
+  
+* MEDICINES :-
+  Medicines is a feature available in the Hospital Management System Project. In Medicines a user can add a new medicine by providing informations asked by the system and it
+  also views the list of existing medicines available
+  
+* LABORATORIES :-
+  Laboratories is a feature available in the Hospital Management System Project. In Laboratories a user can add a new laboratory by providing informations asked by the system 
+  and it also views the list of existing laboratories available
+  
+* FACILITIES :-
+  Facilities is a feature available in the Hospital Management System Project. In Facilities a user can add a new facility by providing informations asked by the system and it
+  also views the list of existing facilities available
+  
+* STAFF :-
+  Staff is a feature available in the Hospital Management System Project. In Staff a user can add a new staff by providing informations asked by the system and it also
+  views the list of existing staff available
+   
+
+# High Level Requirements:
+
+|`      `ID|`                 `Description|`            `Status|
+| :- | :- | :- |
+|HL01|` `Doctor Details| Implemented |
+|HL02|` `Patients Details| Implemented |
+|HL03|` `Medicines Information| Implemented | 
+|HL04|` `Laboratories Information| Implemented |
+|HL05|` `Facilities| Implemented |
+|HL06|` `Staff Details| Implemented | 
+
+
+# Low Level Requirements:
+
+|`      `ID|`                 `Description|`            `Status|
+| :- | :- | :- |
+|LL01_HL01|` `Add new doctor details| Implemented |
+|LL02_HL01|` `Show existing doctor details| Implemented |
+|LL01_HL02|` `Add new patients details| Implemented |
+|LL02_HL02|` `Show existing patients details| Implemented |
+|LL01_HL03|` `Add new medicines information| Implemented |
+|LL02_HL03|` `Show existing medicines information| Implemented |
+|LL01_HL04|` `Add new laboratories information| Implemented |
+|LL02_HL04|` `Show existing laboratories information| Implemented |
+|LL01_HL05|` `Add new facilities| Implemented |
+|LL02_HL05|` `show existing facilities| Implemented |
+|LL01_HL06|` `Add new staff details| Implemented |
+|LL02_HL06|` `show existing staff details| Implemented |
+ 
+
+# ADVANTAGES
+
+* Specifically, the integration of the software into the system has made communication much more effective in the case of the health care system. As a result, it is possible to   access every data easily
+* Improved productivity and cost-effectiveness is considered to be another important advantage of the hospital management system. Currently, it has been productive to manage the   things automatically when compared to the old day manual set up.
+* Hospital Management System is a user friendly project which can be used by anyone easily 
+
+# DISADVANTAGES
+
+* One of the greatest disadvantages of the hospital management system is generally related to security.
+* Another greatest problem that is associated with the health care industry is the data breach. Not only that, but it is also known to be a sophisticated problem.
+* Lack of employment is another such thing. The chances of employment usually become less with the automation of the system. Also, the gradual need for manual data drafting       becomes an irrelevant aspect.
